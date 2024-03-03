@@ -28,3 +28,4 @@ def buy_books():
 
     print(table)
 
+buy_books()
